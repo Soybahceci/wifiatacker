@@ -2,5 +2,5 @@
 
 
 ```console
-git clone https://github.com/TheLastHack/wifiatacker.git
+git clone https://github.com/Soybahceci/wifiatacker.git
 ```
